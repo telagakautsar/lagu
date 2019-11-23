@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd">
+	<channel>
+		<language>tr</language>
+		<item>
+			<title>Radio 1</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://uk2.internet-radio.com:31491/" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 2</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://uk5.internet-radio.com:8347/" type="audio/mpeg" />
+		</item>
+		
+		
+		<item>
+			<title>Radio 3</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://s1.slotex.pl:7520/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+		
+		<item>
+			<title>Radio 4</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://192.240.102.198:14244/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 5</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://us2.internet-radio.com:8046/" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 6</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://50.7.68.251:7168/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 7</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://199.195.194.94:8109/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 8</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://213.239.218.99:7241/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 9</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://216.75.60.118:8500/" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 10</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://198.178.123.20:10722/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 11</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://66.55.145.43:7051/" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 12</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://184.154.202.243:8171/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 13</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://178.32.62.163:8599/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<title>Radio 14</title>
+			<itunes:summary>Relaxtion Radio</itunes:summary>
+			<enclosure url="http://163.172.77.142:8006/listen.pls?sid=1" type="audio/mpeg" />
+		</item>
+		
+	</channel>
+</rss>
